@@ -111,7 +111,12 @@ function App() {
                </div>
                <div >
                  <AiOutlineDelete className="icon"  onClick={() => handleDeleteCompletedTodo (index)} title="Delete"/>
-                 
+                 <div>
+                  <h1>hiusaiusu</h1>
+                  </div>
+                  <div>
+                  <h1>hiusaiusu</h1>
+                  </div>
              </div>
              </div>
               )
